@@ -48,6 +48,7 @@ main.py
 
 ## Пример вывода вакансий
 
+<img width="925" alt="Снимок экрана 2023-08-22 в 18 59 52" src="https://github.com/chanfoxx/get_vacancies_project/assets/133925881/6be645c3-ff2a-4780-abb9-679853d31e6e">
 
 
 ## Ошибки и улучшения
